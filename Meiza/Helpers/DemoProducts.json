@@ -1,0 +1,78 @@
+{
+    "category": { "codename": "category_1", "icon": "http://myshop.bigapps.ngrok.io/upload/category/predefined/bathroom.png", "name": "someCat"
+        },
+    "products": [{
+        "id": 11,
+        "isNew": false,
+        "isStock": true,
+        "isSeason": false,
+        "isSale": false,
+        "defaultUnitType": "unit",
+        "unitTypes": [{
+                "multiplier": 1,
+                "price": 600,
+                "type": "unit"
+            }
+        ],
+        "product": {
+            "id": 11,
+            "name": "אוהל פתיחה מהירה לקמפינג 3XL",
+            "description": null,
+            "toppingsDescription": null,
+            "image": "https://myshop.bigapps.co.il/upload/product/mobile/11/79a8bd0457d9090513e85307086a1484.png",
+            "imageBig": "https://myshop.bigapps.co.il/upload/product/mobile/11/79a8bd0457d9090513e85307086a1484.png",
+            "category": "category_1"
+        },
+        "shopToppings": []
+    },
+    {
+        "id": 12,
+        "isNew": false,
+        "isStock": true,
+        "isSeason": false,
+        "isSale": false,
+        "defaultUnitType": "unit",
+        "unitTypes": [
+            {
+                "multiplier": 1,
+                "price": 120,
+                "type": "unit"
+            }
+        ],
+        "product": {
+            "id": 12,
+            "name": "מיטת שדה",
+            "description": null,
+            "toppingsDescription": null,
+            "image": "https://myshop.bigapps.co.il/upload/product/mobile/12/8e591fc2baacfb3f424a113ee8418ad8.png",
+            "imageBig": "https://myshop.bigapps.co.il/upload/product/mobile/12/8e591fc2baacfb3f424a113ee8418ad8.png",
+            "category": "category_1"
+        },
+        "shopToppings": []
+    },
+    {
+        "id": 13,
+        "isNew": false,
+        "isStock": true,
+        "isSeason": false,
+        "isSale": false,
+        "defaultUnitType": "unit",
+        "unitTypes": [
+            {
+                "multiplier": 1,
+                "price": 35,
+                "type": "unit"
+            }
+        ],
+        "product": {
+            "id": 13,
+            "name": "מיטה צרפתית",
+            "description": null,
+            "toppingsDescription": null,
+            "image": "https://myshop.bigapps.co.il/upload/product/mobile/12/8e591fc2baacfb3f424a113ee8418ad8.png",
+            "imageBig": "https://myshop.bigapps.co.il/upload/product/mobile/12/8e591fc2baacfb3f424a113ee8418ad8.png",
+            "category": "category_1"
+        },
+        "shopToppings": []
+    }]
+}

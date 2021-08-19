@@ -1,0 +1,23 @@
+/* Class = "UIButton"; normalTitle = "−"; ObjectID = "2Go-6Q-Ffq"; */
+"2Go-6Q-Ffq.normalTitle" = "−";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "Atu-O5-mcq"; */
+"Atu-O5-mcq.text" = "pcs";
+
+/* Class = "UILabel"; text = "הוסף לסל"; ObjectID = "CQT-hD-ZrL"; */
+"CQT-hD-ZrL.text" = "rajouter dans le panier";
+
+/* Class = "UILabel"; text = "אזל במלאי!"; ObjectID = "MHR-BI-DnR"; */
+"MHR-BI-DnR.text" = "en rupture de stock!";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "PZS-Pn-2wo"; */
+"PZS-Pn-2wo.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rN8-y4-pdX"; */
+"rN8-y4-pdX.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sla-Ug-mfw"; */
+"Sla-Ug-mfw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UyT-vj-fzp"; */
+"UyT-vj-fzp.text" = "Label";

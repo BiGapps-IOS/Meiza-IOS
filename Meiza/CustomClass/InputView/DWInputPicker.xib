@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Heebo-Regular.ttf">
+            <string>Heebo-Regular</string>
+        </array>
+        <array key="Rubik-Regular.ttf">
+            <string>Rubik-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="7hJ-W0-Dca" customClass="DWInputPicker" customModule="My_shop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="170"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HVI-9E-vDc">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="40"/>
+                    <subviews>
+                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F8N-cA-FdG">
+                            <rect key="frame" x="0.0" y="0.0" width="187" height="40"/>
+                            <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <fontDescription key="fontDescription" name="Rubik-Regular" family="Rubik" pointSize="20"/>
+                            <state key="normal" title="בטל">
+                                <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                        </button>
+                        <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tWG-O1-7qG">
+                            <rect key="frame" x="188" y="0.0" width="187" height="40"/>
+                            <color key="backgroundColor" name="MainColor"/>
+                            <fontDescription key="fontDescription" name="Heebo-Regular" family="Heebo" pointSize="22"/>
+                            <state key="normal" title="בחר">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                        </button>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="btE-4x-uZj">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="1"/>
+                            <color key="backgroundColor" name="DARK_BLUE"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="MoQ-UP-3Af"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="tWG-O1-7qG" firstAttribute="width" secondItem="F8N-cA-FdG" secondAttribute="width" id="FG2-cP-RFz"/>
+                        <constraint firstAttribute="bottom" secondItem="F8N-cA-FdG" secondAttribute="bottom" id="FO4-cn-902"/>
+                        <constraint firstAttribute="bottom" secondItem="tWG-O1-7qG" secondAttribute="bottom" id="NlO-bq-M4r"/>
+                        <constraint firstItem="btE-4x-uZj" firstAttribute="leading" secondItem="HVI-9E-vDc" secondAttribute="leading" id="UPL-4O-VBL"/>
+                        <constraint firstItem="F8N-cA-FdG" firstAttribute="leading" secondItem="HVI-9E-vDc" secondAttribute="leading" id="VNL-Yo-EWA"/>
+                        <constraint firstItem="btE-4x-uZj" firstAttribute="top" secondItem="HVI-9E-vDc" secondAttribute="top" id="WGv-90-rno"/>
+                        <constraint firstAttribute="trailing" secondItem="tWG-O1-7qG" secondAttribute="trailing" id="cyV-vu-Zl4"/>
+                        <constraint firstItem="tWG-O1-7qG" firstAttribute="top" secondItem="HVI-9E-vDc" secondAttribute="top" id="dy6-SJ-ctk"/>
+                        <constraint firstItem="F8N-cA-FdG" firstAttribute="top" secondItem="HVI-9E-vDc" secondAttribute="top" id="jjJ-xn-I1t"/>
+                        <constraint firstAttribute="width" secondItem="HVI-9E-vDc" secondAttribute="height" multiplier="75:8" id="pw6-pL-Em8"/>
+                        <constraint firstAttribute="trailing" secondItem="btE-4x-uZj" secondAttribute="trailing" id="wvR-r0-Ynu"/>
+                        <constraint firstItem="tWG-O1-7qG" firstAttribute="leading" secondItem="F8N-cA-FdG" secondAttribute="trailing" constant="1" id="xKw-gA-F4v"/>
+                    </constraints>
+                </view>
+                <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lwh-yO-pQ9">
+                    <rect key="frame" x="0.0" y="48" width="375" height="122"/>
+                </pickerView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="HVI-9E-vDc" firstAttribute="trailing" secondItem="7hJ-W0-Dca" secondAttribute="trailing" id="0xI-Qf-69S"/>
+                <constraint firstItem="lwh-yO-pQ9" firstAttribute="leading" secondItem="7hJ-W0-Dca" secondAttribute="leading" id="GVd-Ji-Zag"/>
+                <constraint firstItem="HVI-9E-vDc" firstAttribute="leading" secondItem="7hJ-W0-Dca" secondAttribute="leading" id="TPh-HB-nmD"/>
+                <constraint firstItem="lwh-yO-pQ9" firstAttribute="trailing" secondItem="7hJ-W0-Dca" secondAttribute="trailing" id="XyR-ry-5P6"/>
+                <constraint firstItem="HVI-9E-vDc" firstAttribute="top" secondItem="7hJ-W0-Dca" secondAttribute="top" id="iM5-Ou-GRq"/>
+                <constraint firstItem="lwh-yO-pQ9" firstAttribute="top" secondItem="HVI-9E-vDc" secondAttribute="bottom" constant="8" id="knT-Ih-znX"/>
+                <constraint firstItem="lwh-yO-pQ9" firstAttribute="bottom" secondItem="7hJ-W0-Dca" secondAttribute="bottom" id="zVP-HH-xGp"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btnCancel" destination="F8N-cA-FdG" id="3Ss-2k-cMw"/>
+                <outlet property="btnChoose" destination="tWG-O1-7qG" id="N8q-gN-xYe"/>
+                <outlet property="picker" destination="lwh-yO-pQ9" id="0F3-aS-QEZ"/>
+            </connections>
+            <point key="canvasLocation" x="196.37681159420291" y="-341.51785714285711"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="DARK_BLUE">
+            <color red="0.008999999612569809" green="0.092000000178813934" blue="0.19099999964237213" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="MainColor">
+            <color red="0.057999998331069946" green="0.6940000057220459" blue="0.88599997758865356" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

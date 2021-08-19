@@ -1,0 +1,563 @@
+/* Class = "UIButton"; normalTitle = "יצירת קשר"; ObjectID = "0fP-Ah-oCt"; */
+"0fP-Ah-oCt.normalTitle" = "الاتصال مع المحل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1gx-Ua-xeL"; */
+"1gx-Ua-xeL.text" = "Label";
+
+/* Class = "UITextView"; text = "הוספת הערה להזמנה"; ObjectID = "1Xh-Ke-qpI"; */
+"1Xh-Ke-qpI.text" = "اضف ملاحظة";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "24d-kE-CDU"; */
+"24d-kE-CDU.text" = "0.0";
+
+/* Class = "UILabel"; text = "הוסף מוצר לסל"; ObjectID = "2GB-gJ-3nE"; */
+"2GB-gJ-3nE.text" = "اضف الى السلة";
+
+/* Class = "UILabel"; text = "מוצר"; ObjectID = "36n-3v-Aes"; */
+"36n-3v-Aes.text" = "מוצר";
+
+/* Class = "UIButton"; normalTitle = "מדיניות פרטיות"; ObjectID = "3MT-vV-fnv"; */
+"3MT-vV-fnv.normalTitle" = "سياسة الخصوصية";
+
+/* Class = "UILabel"; text = "מחיר"; ObjectID = "3Xx-G4-IX5"; */
+"3Xx-G4-IX5.text" = "מחיר";
+
+/* Class = "UILabel"; text = "מספר תשלומים"; ObjectID = "4J1-6V-8fI"; */
+"4J1-6V-8fI.text" = "מספר תשלומים";
+
+/* Class = "UILabel"; text = "איסוף עצמי"; ObjectID = "4mk-tF-vTy"; */
+"4mk-tF-vTy.text" = "استلام ذاتي";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "4Qw-c4-FTd"; */
+"4Qw-c4-FTd.text" = "₪";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4xu-yS-apH"; */
+"4xu-yS-apH.text" = "Label";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "5ET-ix-zZm"; */
+"5ET-ix-zZm.text" = "2";
+
+/* Class = "UILabel"; text = "סטטוס ההזמנה"; ObjectID = "5hk-2h-stj"; */
+"5hk-2h-stj.text" = "استلام ذاتي";
+
+/* Class = "UILabel"; text = "לחץ כאן"; ObjectID = "5mb-db-Kpq"; */
+"5mb-db-Kpq.text" = "اضغط هنا";
+
+/* Class = "UITextField"; placeholder = "מס׳ דירה"; ObjectID = "66F-48-rf2"; */
+"66F-48-rf2.placeholder" = "رقم السكن";
+
+/* Class = "UITextField"; placeholder = "מייל"; ObjectID = "68D-Th-WaD"; */
+"68D-Th-WaD.placeholder" = "البريد الاكتروني";
+
+/* Class = "UILabel"; text = "יש לך קופון?"; ObjectID = "6ka-z5-Gba"; */
+"6ka-z5-Gba.text" = "لديك قسيمة ؟";
+
+/* Class = "UIButton"; normalTitle = "−"; ObjectID = "7eh-b0-c3F"; */
+"7eh-b0-c3F.normalTitle" = "−";
+
+/* Class = "UILabel"; text = "הסכום הסופי לתשלום יקבע לאחר הכנת ההזמנה"; ObjectID = "7RS-oz-o8t"; */
+"7RS-oz-o8t.text" = "المبلغ النهائي للدفع يحدد بعد تجهيز الطلبية";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "7ui-pd-DMC"; */
+"7ui-pd-DMC.text" = "2";
+
+/* Class = "UILabel"; text = "אזל במלאי!"; ObjectID = "7xW-jm-IXi"; */
+"7xW-jm-IXi.text" = "انتهت الكمية";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7ze-Qk-c3f"; */
+"7ze-Qk-c3f.text" = "0";
+
+/* Class = "UILabel"; text = "pizza"; ObjectID = "90a-Yt-9aL"; */
+"90a-Yt-9aL.text" = "pizza";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9lx-ED-piL"; */
+"9lx-ED-piL.text" = "0";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "9WL-eK-nII"; */
+"9WL-eK-nII.text" = "₪";
+
+/* Class = "UITextView"; text = "הוספת הערה לשליח"; ObjectID = "9xH-F4-SOA"; */
+"9xH-F4-SOA.text" = "اضف ملاحظة للمرسل";
+
+/* Class = "UILabel"; text = "אני מאשר שקראתי את התקנון ואני מסכים לתנאיו"; ObjectID = "A7q-bD-E2e"; */
+"A7q-bD-E2e.text" = "انا ااكد قراءة القواعد وسياسة الخصوصية واوافق على شروطها";
+
+/* Class = "UIButton"; normalTitle = "אישור"; ObjectID = "aBc-59-ijR"; */
+"aBc-59-ijR.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "זמני  משלוחים:"; ObjectID = "Acc-ru-BWx"; */
+"Acc-ru-BWx.text" = "اوقات الارساليات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aW9-LM-skD"; */
+"aW9-LM-skD.text" = "Label";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "Ay7-dC-Mwz"; */
+"Ay7-dC-Mwz.text" = "00.00";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "B3f-h2-xDf"; */
+"B3f-h2-xDf.text" = "00.00";
+
+/* Class = "UITextField"; placeholder = "קומה"; ObjectID = "B5h-QO-TRL"; */
+"B5h-QO-TRL.placeholder" = "الطابق";
+
+/* Class = "UILabel"; text = "זמן הגעה"; ObjectID = "BBp-MJ-mQA"; */
+"BBp-MJ-mQA.text" = "مدة الوصول";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bl4-vA-r7z"; */
+"bl4-vA-r7z.text" = "0";
+
+/* Class = "UILabel"; text = "יצירת קשר"; ObjectID = "bMC-XJ-TMI"; */
+"bMC-XJ-TMI.text" = "الاتصال مع المحل";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "BN5-4T-97z"; */
+"BN5-4T-97z.text" = "وحدة";
+
+/* Class = "UILabel"; text = "סה״כ לתשלום"; ObjectID = "boq-u7-l3W"; */
+"boq-u7-l3W.text" = "المجموع للدفع";
+
+/* Class = "UILabel"; text = "מוצר"; ObjectID = "c8s-S4-wuA"; */
+"c8s-S4-wuA.text" = "منتج";
+
+/* Class = "UIButton"; normalTitle = "הסר מהסל"; ObjectID = "cDD-Ce-cOA"; */
+"cDD-Ce-cOA.normalTitle" = "ازالة من السلة";
+
+/* Class = "UILabel"; text = "הערה:"; ObjectID = "CFf-hf-9AA"; */
+"CFf-hf-9AA.text" = "ملاحظة";
+
+/* Class = "UIButton"; normalTitle = "ק״ג"; ObjectID = "cIg-e4-ui4"; */
+"cIg-e4-ui4.normalTitle" = "كغم";
+
+/* Class = "UIButton"; normalTitle = "להוספת הערה לחץ כאן"; ObjectID = "Cp0-FQ-vqc"; */
+"Cp0-FQ-vqc.normalTitle" = "اضف ملاحظة";
+
+/* Class = "UILabel"; text = "הוסף מוצר לסל"; ObjectID = "cp4-v1-Y7L"; */
+"cp4-v1-Y7L.text" = "اضف الى السلة";
+
+/* Class = "UILabel"; text = "דמי משלוח:"; ObjectID = "CUL-T7-VYW"; */
+"CUL-T7-VYW.text" = "رسوم ارسال";
+
+/* Class = "UILabel"; text = "20.00"; ObjectID = "d6S-2a-pEh"; */
+"d6S-2a-pEh.text" = "20.00";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "dgI-SZ-34p"; */
+"dgI-SZ-34p.text" = "₪";
+
+/* Class = "UITextField"; placeholder = "שם מלא"; ObjectID = "Dio-YZ-BA9"; */
+"Dio-YZ-BA9.placeholder" = "الاسم + اسم العائلة";
+
+/* Class = "UILabel"; text = "pizza"; ObjectID = "DKB-m2-GV0"; */
+"DKB-m2-GV0.text" = "pizza";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "do1-Rr-BNa"; */
+"do1-Rr-BNa.text" = "وحدة";
+
+/* Class = "UILabel"; text = "לחץ על הסל ובוא נתחיל"; ObjectID = "E1X-se-axr"; */
+"E1X-se-axr.text" = "اضغط على السلة وهيا نبدا";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "EdR-S7-WQ0"; */
+"EdR-S7-WQ0.text" = "CVV";
+
+/* Class = "UILabel"; text = "סה״כ לתשלום"; ObjectID = "eHB-Sf-FdS"; */
+"eHB-Sf-FdS.text" = "المجموع";
+
+/* Class = "UILabel"; text = "pizza"; ObjectID = "Ek4-Rd-aMx"; */
+"Ek4-Rd-aMx.text" = "pizza";
+
+/* Class = "UILabel"; text = "ק״ג"; ObjectID = "eK5-lr-UjW"; */
+"eK5-lr-UjW.text" = "كغم";
+
+/* Class = "UILabel"; text = "סה״כ לתשלום:"; ObjectID = "ES6-kk-ph0"; */
+"ES6-kk-ph0.text" = "المجموع";
+
+/* Class = "UITextField"; placeholder = "עיר/ישוב"; ObjectID = "F2f-QZ-AjI"; */
+"F2f-QZ-AjI.placeholder" = "المدينة / البلدة";
+
+/* Class = "UIButton"; normalTitle = "תשלום לשליח"; ObjectID = "F2P-Sk-IXY"; */
+"F2P-Sk-IXY.normalTitle" = "الدفع عند الارسال";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "F4M-Nn-Yz8"; */
+"F4M-Nn-Yz8.text" = "₪";
+
+/* Class = "UIButton"; normalTitle = "−"; ObjectID = "FiS-sf-xh8"; */
+"FiS-sf-xh8.normalTitle" = "−";
+
+/* Class = "UIButton"; normalTitle = "המשך"; ObjectID = "fLS-47-lmd"; */
+"fLS-47-lmd.normalTitle" = "اكمل";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fyR-j8-EfH"; */
+"fyR-j8-EfH.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "אני רוצה לשלם בכרטיס אשראי אחר"; ObjectID = "GBL-cR-Gyf"; */
+"GBL-cR-Gyf.normalTitle" = "اريد الدفع ببطاقة اعتماد اخرى";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "ggY-TC-7AA"; */
+"ggY-TC-7AA.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "ק״ג"; ObjectID = "GLa-cD-3uj"; */
+"GLa-cD-3uj.text" = "كغم";
+
+/* Class = "UILabel"; text = "אזל במלאי!"; ObjectID = "Glx-FO-kpG"; */
+"Glx-FO-kpG.text" = "انتهت الكمية";
+
+/* Class = "UIButton"; normalTitle = "כולל תוספות"; ObjectID = "gSd-it-omF"; */
+"gSd-it-omF.normalTitle" = "يشمل اضافات";
+
+/* Class = "UILabel"; text = "ק״ג"; ObjectID = "gvx-jZ-g7V"; */
+"gvx-jZ-g7V.text" = "كغم";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "H2S-o2-Gjk"; */
+"H2S-o2-Gjk.text" = "0.0";
+
+/* Class = "UILabel"; text = "מידע נוסף"; ObjectID = "hBq-E4-iby"; */
+"hBq-E4-iby.text" = "معلومات اضافية";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "hD5-8n-Qfv"; */
+"hD5-8n-Qfv.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "שם"; ObjectID = "hfu-ma-wJ3"; */
+"hfu-ma-wJ3.text" = "שם";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Hkv-uV-oTw"; */
+"Hkv-uV-oTw.text" = "0";
+
+/* Class = "UILabel"; text = "מספר כרטיס"; ObjectID = "hNH-f6-cye"; */
+"hNH-f6-cye.text" = "رقم البطاقة";
+
+/* Class = "UILabel"; text = "קופה"; ObjectID = "hnu-AC-dPf"; */
+"hnu-AC-dPf.text" = "محاسبة";
+
+/* Class = "UIButton"; normalTitle = "מעבר לתשלום"; ObjectID = "htK-T1-vzq"; */
+"htK-T1-vzq.normalTitle" = "الانتقال للدفع";
+
+/* Class = "UIButton"; normalTitle = "מי אנחנו"; ObjectID = "HXd-lM-PHD"; */
+"HXd-lM-PHD.normalTitle" = "من نحن";
+
+/* Class = "UILabel"; text = "דמי משלוח יתעדכנו לאחר הזנת הכתובת"; ObjectID = "i4z-DE-H81"; */
+"i4z-DE-H81.text" = "سعر التوصيل يحدد بعد ادخال العنوان";
+
+/* Class = "UIButton"; normalTitle = "ק״ג"; ObjectID = "Ib1-i4-4Vi"; */
+"Ib1-i4-4Vi.normalTitle" = "كغم";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "IEB-DP-W8g"; */
+"IEB-DP-W8g.text" = "₪";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Ihe-fF-oW7"; */
+"Ihe-fF-oW7.text" = "0";
+
+/* Class = "UILabel"; text = "משלוח"; ObjectID = "IRe-Io-Oz2"; */
+"IRe-Io-Oz2.text" = "ارسال";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "j4i-yC-1nk"; */
+"j4i-yC-1nk.text" = "0";
+
+/* Class = "UILabel"; text = "מספר כרטיס"; ObjectID = "j7F-9W-dsY"; */
+"j7F-9W-dsY.text" = "رقم البطاقة";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "J7W-pC-Pth"; */
+"J7W-pC-Pth.text" = "₪";
+
+/* Class = "UILabel"; text = "אזל במלאי!"; ObjectID = "jDL-LY-0U1"; */
+"jDL-LY-0U1.text" = "انتهت الكمية";
+
+/* Class = "UIButton"; normalTitle = "שלח"; ObjectID = "JdR-yJ-35v"; */
+"JdR-yJ-35v.normalTitle" = "ارسل";
+
+/* Class = "UIButton"; normalTitle = "יח׳"; ObjectID = "Jlo-HF-5RF"; */
+"Jlo-HF-5RF.normalTitle" = "وحدة";
+
+/* Class = "UITextField"; placeholder = "רחוב"; ObjectID = "JnK-Tl-XUp"; */
+"JnK-Tl-XUp.placeholder" = "حارة / شارع";
+
+/* Class = "UIButton"; normalTitle = "היסטוריית הזמנות"; ObjectID = "Jz6-rO-rkA"; */
+"Jz6-rO-rkA.normalTitle" = "طلبات سابقة";
+
+/* Class = "UILabel"; text = "חדשה"; ObjectID = "K7P-uk-HFe"; */
+"K7P-uk-HFe.text" = "جديدة";
+
+/* Class = "UILabel"; text = "טלפון"; ObjectID = "Kj7-W2-eZk"; */
+"Kj7-W2-eZk.text" = "هاتف";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Kom-T0-eio"; */
+"Kom-T0-eio.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "מיקום לשליח"; ObjectID = "kpd-n6-cNC"; */
+"kpd-n6-cNC.normalTitle" = "تحديث العنوان";
+
+/* Class = "UILabel"; text = "כתובת למשלוח"; ObjectID = "kRh-1T-XTH"; */
+"kRh-1T-XTH.text" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "חודש"; ObjectID = "laD-Ku-ddz"; */
+"laD-Ku-ddz.placeholder" = "الشهر";
+
+/* Class = "UILabel"; text = "סכום הזמנה"; ObjectID = "ldA-Wi-r8f"; */
+"ldA-Wi-r8f.text" = "مبلغ الطلبية";
+
+/* Class = "UILabel"; text = "להמשך תשלום מלא את ספרות ה-CVV"; ObjectID = "lMf-c4-Xal"; */
+"lMf-c4-Xal.text" = "للاستمرار في الدفع ادخل ارقام - cvv";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "LQK-DX-hLI"; */
+"LQK-DX-hLI.text" = "₪";
+
+/* Class = "UILabel"; text = "סוג ההזמנה"; ObjectID = "LRf-kt-jQ1"; */
+"LRf-kt-jQ1.text" = "نوع الطلب";
+
+/* Class = "UILabel"; text = "מחיר"; ObjectID = "LsD-xe-EAR"; */
+"LsD-xe-EAR.text" = "מחיר";
+
+/* Class = "UILabel"; text = "בטל סינון"; ObjectID = "LY6-Xv-AEv"; */
+"LY6-Xv-AEv.text" = "الغاء التصنيف";
+
+/* Class = "UILabel"; text = "דמי משלוח:"; ObjectID = "LYw-S4-mir"; */
+"LYw-S4-mir.text" = "الغاء التصنيف";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "MAC-qa-WmH"; */
+"MAC-qa-WmH.placeholder" = "CVV";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "MBw-0F-apz"; */
+"MBw-0F-apz.text" = "₪";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "MdA-TJ-z9R"; */
+"MdA-TJ-z9R.text" = "وحدة";
+
+/* Class = "UILabel"; text = "משלוח"; ObjectID = "mdf-4x-rP0"; */
+"mdf-4x-rP0.text" = "ارسال";
+
+/* Class = "UILabel"; text = "ת.ז של בעל הכרטיס"; ObjectID = "MGE-UA-D8h"; */
+"MGE-UA-D8h.text" = "رقم الهوية لصاحب البطاقة";
+
+/* Class = "UILabel"; text = "דמי משלוח יתעדכנו לאחר הזנת הכתובת"; ObjectID = "MiT-ut-AZd"; */
+"MiT-ut-AZd.text" = "سعر التوصيل يحدد بعد ادخال العنوان";
+
+/* Class = "UILabel"; text = "סה״כ לתשלום"; ObjectID = "mqy-tf-eMz"; */
+"mqy-tf-eMz.text" = "المجموع للدفع";
+
+/* Class = "UILabel"; text = "יש לך קופון?"; ObjectID = "Ms0-hL-hkG"; */
+"Ms0-hL-hkG.text" = "لديك قسيمة ؟ ";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "mSl-dS-mmX"; */
+"mSl-dS-mmX.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "בחר"; ObjectID = "MXE-9q-nSp"; */
+"MXE-9q-nSp.normalTitle" = "اختار";
+
+/* Class = "UIButton"; normalTitle = "מדיניות ביטולים"; ObjectID = "My1-0A-XuV"; */
+"My1-0A-XuV.normalTitle" = "سياسة الالغاء";
+
+/* Class = "UITextField"; placeholder = "מס׳ בית"; ObjectID = "N3j-Zi-hkC"; */
+"N3j-Zi-hkC.placeholder" = "رقم المنزل";
+
+/* Class = "UIButton"; normalTitle = "הסר מהסל"; ObjectID = "n9I-G3-8BI"; */
+"n9I-G3-8BI.normalTitle" = "ازالة من السلة";
+
+/* Class = "UILabel"; text = "מידע נוסף"; ObjectID = "neh-in-3hu"; */
+"neh-in-3hu.text" = "معلومات اضافية";
+
+/* Class = "UIButton"; normalTitle = "בחר"; ObjectID = "nLt-yy-bGI"; */
+"nLt-yy-bGI.normalTitle" = "اختار";
+
+/* Class = "UIButton"; normalTitle = "מעבר לקופה"; ObjectID = "nMK-6P-MvO"; */
+"nMK-6P-MvO.normalTitle" = "الانتقال للمحاسبة";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "nUf-fw-0Ij"; */
+"nUf-fw-0Ij.text" = "0.00";
+
+/* Class = "UILabel"; text = "דמי משלוח יתעדכנו לאחר הזנת הכתובת"; ObjectID = "nuu-Ti-z7c"; */
+"nuu-Ti-z7c.text" = "سعر التوصيل يحدد بعد ادخال العنوان";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "NVF-Zu-2Vh"; */
+"NVF-Zu-2Vh.text" = "وحدة";
+
+/* Class = "UILabel"; text = "20.00"; ObjectID = "nz0-Yf-RgN"; */
+"nz0-Yf-RgN.text" = "20.00";
+
+/* Class = "UILabel"; text = "דמי משלוח:"; ObjectID = "o24-wI-w0o"; */
+"o24-wI-w0o.text" = "رسوم ارسال";
+
+/* Class = "UIButton"; normalTitle = "שמור פרטים"; ObjectID = "OA7-oT-UOv"; */
+"OA7-oT-UOv.normalTitle" = "احفظ";
+
+/* Class = "UILabel"; text = "מספר ההזמנה"; ObjectID = "Oem-5R-Hgw"; */
+"Oem-5R-Hgw.text" = "رقم الطلب";
+
+/* Class = "UILabel"; text = "ק״ג"; ObjectID = "OmA-ck-lY2"; */
+"OmA-ck-lY2.text" = "كغم";
+
+/* Class = "UILabel"; text = "תאריך:"; ObjectID = "OrO-tB-PTO"; */
+"OrO-tB-PTO.text" = "التاريخ";
+
+/* Class = "UILabel"; text = "תקנון"; ObjectID = "P9W-2r-85i"; */
+"P9W-2r-85i.text" = "יسياسة القواعد";
+
+/* Class = "UILabel"; text = "לא נמצאו תוצאות..."; ObjectID = "plj-ct-DV8"; */
+"plj-ct-DV8.text" = "لا توجد نتائج…";
+
+/* Class = "UIButton"; normalTitle = "הוסף הערה"; ObjectID = "PP9-vT-p5w"; */
+"PP9-vT-p5w.normalTitle" = "اضف ملاحظة";
+
+/* Class = "UILabel"; text = "עדיין אין לך הזמנות"; ObjectID = "pZQ-A7-20U"; */
+"pZQ-A7-20U.text" = "ليس لديك طلبات مسبقة";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "Q3u-bs-4IL"; */
+"Q3u-bs-4IL.text" = "0.00";
+
+/* Class = "UILabel"; text = "333333"; ObjectID = "QhE-FX-259"; */
+"QhE-FX-259.text" = "333333";
+
+/* Class = "UIButton"; normalTitle = "ק״ג"; ObjectID = "Qqb-kD-66Z"; */
+"Qqb-kD-66Z.normalTitle" = "كغم";
+
+/* Class = "UITextField"; placeholder = "שנה"; ObjectID = "Rfb-Tl-m4k"; */
+"Rfb-Tl-m4k.placeholder" = "السنة";
+
+/* Class = "UILabel"; text = "מה תרצה להזמין היום?"; ObjectID = "RGU-cs-VDy"; */
+"RGU-cs-VDy.text" = "ماذا تريد ان تطلب اليوم؟";
+
+/* Class = "UIButton"; normalTitle = "יח׳"; ObjectID = "RQ1-yf-tTm"; */
+"RQ1-yf-tTm.normalTitle" = "وحدة";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "RSG-2n-i57"; */
+"RSG-2n-i57.text" = "0.0";
+
+/* Class = "UILabel"; text = "הזמנה"; ObjectID = "RSr-38-Bq4"; */
+"RSr-38-Bq4.text" = "طلبية";
+
+/* Class = "UILabel"; text = "מידע נוסף"; ObjectID = "rtt-Kb-2xF"; */
+"rtt-Kb-2xF.text" = "معلومات اضافية";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "RzE-9U-Lam"; */
+"RzE-9U-Lam.text" = "وحدة";
+
+/* Class = "UIButton"; normalTitle = "שלח"; ObjectID = "s7Z-bV-Y27"; */
+"s7Z-bV-Y27.normalTitle" = "ارسل";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "SBZ-uz-HEI"; */
+"SBZ-uz-HEI.text" = "CVV";
+
+/* Class = "UILabel"; text = "v1.0"; ObjectID = "SV8-Xw-WY9"; */
+"SV8-Xw-WY9.text" = "v1.0";
+
+/* Class = "UILabel"; text = "לחץ על הסל ובוא נתחיל"; ObjectID = "Te5-LI-S9c"; */
+"Te5-LI-S9c.text" = "اضغط على السلة وهيا نبدا";
+
+/* Class = "UILabel"; text = "הערה:"; ObjectID = "Tfh-7R-XNs"; */
+"Tfh-7R-XNs.text" = "ملاحظة";
+
+/* Class = "UILabel"; text = "תוקף הכרטיס"; ObjectID = "tHe-Bq-c2j"; */
+"tHe-Bq-c2j.text" = "صلاحية البطاقة";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "TkA-Ae-CrW"; */
+"TkA-Ae-CrW.text" = "وحدة";
+
+/* Class = "UILabel"; text = "עדכן סל"; ObjectID = "TRf-Rt-Iyf"; */
+"TRf-Rt-Iyf.text" = "تحديث السلة";
+
+/* Class = "UITextField"; placeholder = "טלפון נייד"; ObjectID = "TXg-0l-6dm"; */
+"TXg-0l-6dm.placeholder" = "هاتف نقال";
+
+/* Class = "UIButton"; normalTitle = "מעבר לתשלום"; ObjectID = "Ty0-K1-cEa"; */
+"Ty0-K1-cEa.normalTitle" = "الانتقال للدفع";
+
+/* Class = "UILabel"; text = "עדכן סל"; ObjectID = "U2Y-d3-GXr"; */
+"U2Y-d3-GXr.text" = "تحديث السلة";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "UB7-LJ-3Ps"; */
+"UB7-LJ-3Ps.text" = "00.00";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "uBQ-ti-9ZP"; */
+"uBQ-ti-9ZP.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "הוסף הערה"; ObjectID = "ucq-dQ-QFP"; */
+"ucq-dQ-QFP.normalTitle" = "اضف ملاحظة";
+
+/* Class = "UILabel"; text = "שם מלא של בעל הכרטיס"; ObjectID = "uI7-lb-old"; */
+"uI7-lb-old.text" = "اسم صاحب البطاقة كامل";
+
+/* Class = "UIButton"; normalTitle = "הסר מהסל"; ObjectID = "upb-KY-4QS"; */
+"upb-KY-4QS.normalTitle" = "ازالة من السلة";
+
+/* Class = "UILabel"; text = "שם"; ObjectID = "Uv5-CI-WnT"; */
+"Uv5-CI-WnT.text" = "שם";
+
+/* Class = "UILabel"; text = "בחר הכל"; ObjectID = "Uzo-gx-HgR"; */
+"Uzo-gx-HgR.text" = "اختار الكل";
+
+/* Class = "UILabel"; text = "עדכן סל"; ObjectID = "uZT-c4-HqE"; */
+"uZT-c4-HqE.text" = "تحديث السلة";
+
+/* Class = "UILabel"; text = "תאריך"; ObjectID = "vD5-Af-VgQ"; */
+"vD5-Af-VgQ.text" = "التاريخ";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "VfG-Qa-baC"; */
+"VfG-Qa-baC.text" = "2";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "Vgm-CC-yzS"; */
+"Vgm-CC-yzS.text" = "00.00";
+
+/* Class = "UILabel"; text = "לחץ כאן"; ObjectID = "VrE-ya-w7b"; */
+"VrE-ya-w7b.text" = "اضغط هنا";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "wD1-4C-6kj"; */
+"wD1-4C-6kj.text" = "₪";
+
+/* Class = "UILabel"; text = "הסל שלך ריק"; ObjectID = "WGW-Qj-Maa"; */
+"WGW-Qj-Maa.text" = "السلة فارغة";
+
+/* Class = "UIButton"; normalTitle = "תקנון"; ObjectID = "wkb-zb-W9h"; */
+"wkb-zb-W9h.normalTitle" = "יسياسة القواعد";
+
+/* Class = "UILabel"; text = "מספר תשלומים"; ObjectID = "wpy-Fq-Rxg"; */
+"wpy-Fq-Rxg.text" = "מספר תשלומים";
+
+/* Class = "UIButton"; normalTitle = "יח׳"; ObjectID = "x5A-jw-6zV"; */
+"x5A-jw-6zV.normalTitle" = "وحدة";
+
+/* Class = "UILabel"; text = "הסל שלי"; ObjectID = "X9g-um-pSd"; */
+"X9g-um-pSd.text" = "السلة";
+
+/* Class = "UITextField"; placeholder = "קוד כניסה"; ObjectID = "XGW-6J-jfo"; */
+"XGW-6J-jfo.placeholder" = "رمز البوابة";
+
+/* Class = "UILabel"; text = "20.00"; ObjectID = "xIe-0p-fWD"; */
+"xIe-0p-fWD.text" = "20.00";
+
+/* Class = "UILabel"; text = "הוסף לסל"; ObjectID = "xIw-Cu-rgi"; */
+"xIw-Cu-rgi.text" = "اضف الى السلة";
+
+/* Class = "UILabel"; text = "1.01.20"; ObjectID = "xLJ-3F-2Pg"; */
+"xLJ-3F-2Pg.text" = "1.01.20";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "XMV-QD-cUo"; */
+"XMV-QD-cUo.text" = "0.00";
+
+/* Class = "UILabel"; text = "03.05.20 14:00-16:00"; ObjectID = "XTl-0w-3Ok"; */
+"XTl-0w-3Ok.text" = "03.05.20 14:00-16:00";
+
+/* Class = "UIButton"; normalTitle = "תודה"; ObjectID = "XvA-4c-WVF"; */
+"XvA-4c-WVF.normalTitle" = "شكرا";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Y0j-zc-SCi"; */
+"Y0j-zc-SCi.text" = "0";
+
+/* Class = "UILabel"; text = "היסטוריית הזמנות"; ObjectID = "yBx-6u-YdE"; */
+"yBx-6u-YdE.text" = "طلبات سابقة";
+
+/* Class = "UILabel"; text = "₪"; ObjectID = "Yj0-Ap-cj6"; */
+"Yj0-Ap-cj6.text" = "₪";
+
+/* Class = "UIButton"; normalTitle = "−"; ObjectID = "yJU-5t-NCk"; */
+"yJU-5t-NCk.normalTitle" = "−";
+
+/* Class = "UILabel"; text = "סה״כ לתשלום"; ObjectID = "zgk-Db-xaP"; */
+"zgk-Db-xaP.text" = "المجموع";
+
+/* Class = "UIButton"; normalTitle = "תשלום באשראי"; ObjectID = "zPe-Pt-DHM"; */
+"zPe-Pt-DHM.normalTitle" = "الدفع ببطاقة الاعتماد";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HV3-GN-Zzm"; */
+"HV3-GN-Zzm.normalTitle" = "";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "Lk0-AV-o6f"; */
+"Lk0-AV-o6f.text" = "";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "NQL-pi-Mwp"; */
+"NQL-pi-Mwp.text" = "";

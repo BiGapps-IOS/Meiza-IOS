@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Heebo-Bold.ttf">
+            <string>Heebo-Bold</string>
+        </array>
+        <array key="Heebo-Medium.ttf">
+            <string>Heebo-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="OrderToppingView" customModule="My_shop" customModuleProvider="target">
+            <connections>
+                <outlet property="btnAddToCart" destination="xdQ-xY-W5T" id="1i0-ZQ-l9t"/>
+                <outlet property="btnDelete" destination="7Ty-cY-zzy" id="cpY-Hf-Isp"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="2CL-GS-0qw"/>
+                <outlet property="lblTitle" destination="n0c-Bu-jW6" id="w5J-kR-YPF"/>
+                <outlet property="tblToppings" destination="LAi-Tl-chk" id="rhb-I1-eum"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="359" height="500"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Ty-cY-zzy">
+                    <rect key="frame" x="330" y="0.0" width="29" height="38"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="29" id="Cst-6w-Uev"/>
+                        <constraint firstAttribute="height" constant="38" id="lCx-8s-jBs"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="7" minY="10" maxX="7" maxY="10"/>
+                    <state key="normal" image="trash"/>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n0c-Bu-jW6">
+                    <rect key="frame" x="30" y="0.0" width="299" height="70.5"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="n0c-Bu-jW6" secondAttribute="height" multiplier="297:70" id="evD-Uy-01c"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Heebo-Bold" family="Heebo" pointSize="25"/>
+                    <color key="textColor" name="MainColor"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isAdjustFontToSizeWidth" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="30" estimatedRowHeight="-1" sectionHeaderHeight="1" sectionFooterHeight="1" translatesAutoresizingMaskIntoConstraints="NO" id="LAi-Tl-chk">
+                    <rect key="frame" x="8" y="78.5" width="343" height="343.5"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </tableView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xdQ-xY-W5T">
+                    <rect key="frame" x="104.5" y="452" width="150" height="40"/>
+                    <color key="backgroundColor" name="MainColor"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="150" id="5tw-ZJ-hnA"/>
+                        <constraint firstAttribute="height" constant="40" id="PHs-mG-uwD"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Heebo-Medium" family="Heebo" pointSize="20"/>
+                    <state key="normal" title="הוסף לסל">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="20"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isAdjustFontToSizeWidth" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="n0c-Bu-jW6" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="30" id="7ro-DT-Hz9"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="xdQ-xY-W5T" secondAttribute="bottom" constant="8" id="Hah-0E-gnb"/>
+                <constraint firstItem="LAi-Tl-chk" firstAttribute="top" secondItem="n0c-Bu-jW6" secondAttribute="bottom" constant="8" id="OgD-rU-UNP"/>
+                <constraint firstItem="n0c-Bu-jW6" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="UEt-cx-WfN"/>
+                <constraint firstItem="LAi-Tl-chk" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="8" id="ax6-GS-c8d"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="n0c-Bu-jW6" secondAttribute="trailing" constant="30" id="b8D-mG-7Cz"/>
+                <constraint firstItem="7Ty-cY-zzy" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="gC4-yd-edT"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="LAi-Tl-chk" secondAttribute="trailing" constant="8" id="hJy-pb-S6D"/>
+                <constraint firstItem="xdQ-xY-W5T" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="jEd-cP-7QT"/>
+                <constraint firstItem="xdQ-xY-W5T" firstAttribute="top" secondItem="LAi-Tl-chk" secondAttribute="bottom" constant="30" id="ja1-YL-THR"/>
+                <constraint firstItem="7Ty-cY-zzy" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="lo3-ih-7te"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                    <real key="value" value="20"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <point key="canvasLocation" x="138.40000000000001" y="130.43478260869566"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="trash" width="29" height="38"/>
+        <namedColor name="MainColor">
+            <color red="0.057999998331069946" green="0.6940000057220459" blue="0.88599997758865356" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

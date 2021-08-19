@@ -1,0 +1,113 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Differentiator (5.0.0)
+  - DWExt (1.0.2)
+  - EFImageViewZoom (0.0.3)
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.2.0):
+    - GoogleMaps/Base (= 4.2.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - ObjectMapper (4.2.0)
+  - OneSignal (2.16.4)
+  - ReachabilitySwift (5.0.0)
+  - RxAnimated (0.9.0):
+    - RxAnimated/Core (= 0.9.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxAnimated/Core (0.9.0):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxGesture (4.0.2):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - DWExt (= 1.0.2)
+  - EFImageViewZoom (from `https://github.com/ezefranca/EFImageViewZoom.git`)
+  - GoogleMaps
+  - GooglePlaces
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - OneSignal (< 3.0, >= 2.11.2)
+  - ReachabilitySwift
+  - RxAnimated
+  - RxCocoa
+  - RxDataSources
+  - RxGesture
+  - RxSwift
+  - SDWebImage (~> 4.0)
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - DWExt
+    - GoogleMaps
+    - GooglePlaces
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - OneSignal
+    - ReachabilitySwift
+    - RxAnimated
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - UPCarouselFlowLayout
+
+EXTERNAL SOURCES:
+  EFImageViewZoom:
+    :git: https://github.com/ezefranca/EFImageViewZoom.git
+
+CHECKOUT OPTIONS:
+  EFImageViewZoom:
+    :commit: bd48754bdbdc1ecfe4c732f6e0e299e8fe145c5a
+    :git: https://github.com/ezefranca/EFImageViewZoom.git
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  DWExt: 17b60b10783f17676aade56cc34dc31613e4d925
+  EFImageViewZoom: 00c327c1d876e0f9086880681549179b0dbe9811
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+  GooglePlaces: 196a9dd88580dcb3f3df46f415057703d0d2a310
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  OneSignal: a59ad040337a8ab02cfc0181d175f147082f5650
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  RxAnimated: e53fb66cafc0539faf881b734f7412a624527f0a
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxGesture: f059f2aeef966fb17dad56ee440e76410f10e55f
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: e8da90b725194fab02d8f62d38a48170b0dccd22
+
+COCOAPODS: 1.10.1

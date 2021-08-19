@@ -1,0 +1,44 @@
+/* Class = "UILabel"; text = "אזל במלאי!"; ObjectID = "1ox-ny-uq5"; */
+"1ox-ny-uq5.text" = "אזל במלאי!";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6Kh-QG-umZ"; */
+"6Kh-QG-umZ.text" = "0";
+
+/* Class = "UILabel"; text = "מידע נוסף"; ObjectID = "92v-c5-Vnt"; */
+"92v-c5-Vnt.text" = "מידע נוסף";
+
+/* Class = "UIButton"; normalTitle = "הסר מהסל"; ObjectID = "9Dh-T2-dl7"; */
+"9Dh-T2-dl7.normalTitle" = "הסר מהסל";
+
+/* Class = "UILabel"; text = "20.00"; ObjectID = "a1l-9g-lCB"; */
+"a1l-9g-lCB.text" = "20.00";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "d1m-LJ-P4A"; */
+"d1m-LJ-P4A.text" = "2";
+
+/* Class = "UILabel"; text = "עדכן סל"; ObjectID = "fAd-6f-Sxm"; */
+"fAd-6f-Sxm.text" = "עדכן סל";
+
+/* Class = "UILabel"; text = "הוסף מוצר לסל"; ObjectID = "I4Z-Iq-N2B"; */
+"I4Z-Iq-N2B.text" = "הוסף מוצר לסל";
+
+/* Class = "UIButton"; normalTitle = "−"; ObjectID = "KZ4-sZ-I9O"; */
+"KZ4-sZ-I9O.normalTitle" = "−";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "M1H-Cq-bx6"; */
+"M1H-Cq-bx6.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "pizza"; ObjectID = "Qfp-Da-J5Z"; */
+"Qfp-Da-J5Z.text" = "pizza";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "rdN-W0-nCW"; */
+"rdN-W0-nCW.text" = "יח׳";
+
+/* Class = "UILabel"; text = "יח׳"; ObjectID = "T5r-As-RQe"; */
+"T5r-As-RQe.text" = "יח׳";
+
+/* Class = "UIButton"; normalTitle = "יח׳"; ObjectID = "wGw-YD-U3Y"; */
+"wGw-YD-U3Y.normalTitle" = "יח׳";
+
+/* Class = "UIButton"; normalTitle = "ק״ג"; ObjectID = "zFz-R4-3ga"; */
+"zFz-R4-3ga.normalTitle" = "ק״ג";

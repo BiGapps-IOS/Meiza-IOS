@@ -1,0 +1,20 @@
+/* Class = "UILabel"; text = "₪"; ObjectID = "5Ax-V4-wAm"; */
+"5Ax-V4-wAm.text" = "₪";
+
+/* Class = "UILabel"; text = "אזל במלאי!"; ObjectID = "hd4-vS-NpH"; */
+"hd4-vS-NpH.text" = "انتهت الكمية";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "itq-4J-RMc"; */
+"itq-4J-RMc.text" = "100000";
+
+/* Class = "UIButton"; normalTitle = "הוסף לסל"; ObjectID = "LSQ-XX-RcM"; */
+"LSQ-XX-RcM.normalTitle" = "הוסף לסל";
+
+/* Class = "UIButton"; normalTitle = "יח׳"; ObjectID = "Oji-ht-wm0"; */
+"Oji-ht-wm0.normalTitle" = "יח׳";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "YQ8-Ac-xnG"; */
+"YQ8-Ac-xnG.text" = "1";
+
+/* Class = "UILabel"; text = "Label "; ObjectID = "ZBD-7F-iaR"; */
+"ZBD-7F-iaR.text" = "Label ";

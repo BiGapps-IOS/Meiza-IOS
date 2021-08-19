@@ -1,0 +1,14 @@
+/* Class = "UIButton"; normalTitle = "ביטול"; ObjectID = "cBq-eJ-CYg"; */
+"cBq-eJ-CYg.normalTitle" = "ביטול";
+
+/* Class = "UILabel"; text = "ניתן לבחור לפי רבעים בלחיצה על התמונה "; ObjectID = "J5J-nw-CT6"; */
+"J5J-nw-CT6.text" = "ניתן לבחור לפי רבעים בלחיצה על התמונה ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QWf-AG-2GR"; */
+"QWf-AG-2GR.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "הוסף לסל"; ObjectID = "xEW-Mh-Vx7"; */
+"xEW-Mh-Vx7.normalTitle" = "הוסף לסל";
+
+/* Class = "UIButton"; normalTitle = "אישור"; ObjectID = "XhE-TZ-Qib"; */
+"XhE-TZ-Qib.normalTitle" = "אישור";

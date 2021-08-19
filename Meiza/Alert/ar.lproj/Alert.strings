@@ -1,0 +1,221 @@
+/* Class = "UIButton"; normalTitle = "כן, בטח!"; ObjectID = "0Uo-eN-QRT"; */
+"0Uo-eN-QRT.normalTitle" = "نعم! , بالطبع";
+
+/* Class = "UIButton"; normalTitle = "בטל"; ObjectID = "1uP-Fi-lA3"; */
+"1uP-Fi-lA3.normalTitle" = "الغ";
+
+/* Class = "UIButton"; normalTitle = "אשר"; ObjectID = "3x7-qS-csO"; */
+"3x7-qS-csO.normalTitle" = "موافق";
+
+/* Class = "UIButton"; normalTitle = "התחל קניה"; ObjectID = "3X9-pb-v2A"; */
+"3X9-pb-v2A.normalTitle" = "ابدأ التسوق";
+
+/* Class = "UIButton"; normalTitle = "הסר"; ObjectID = "5n8-Jv-AqC"; */
+"5n8-Jv-AqC.normalTitle" = "ازالة";
+
+/* Class = "UILabel"; text = "עלות דמי משלוח לכתובת שהזנת הינה"; ObjectID = "5sP-N4-Hx3"; */
+"5sP-N4-Hx3.text" = "سعر التوصيل للعنوان الذي ادخلته هو";
+
+/* Class = "UIButton"; normalTitle = "ביטול"; ObjectID = "62F-kL-CjP"; */
+"62F-kL-CjP.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "קופון על סך 10% הנחה הוזן בהצלחה ויקוזז מההזמנה."; ObjectID = "640-At-Bpu"; */
+"640-At-Bpu.text" = "القسيمة بمجموع %10 تخفيض دخل بنجاح ويعوض من الطلبية";
+
+/* Class = "UIButton"; normalTitle = "הפעלת קופון"; ObjectID = "78M-7N-e8n"; */
+"78M-7N-e8n.normalTitle" = "تشغيل القسيمة";
+
+/* Class = "UILabel"; text = "בא לך לקבל עדכונים על\nהטבות ומבצעים מיוחדים?\nמבטיחים לא להציק יותר מדי..."; ObjectID = "83L-XI-Vzc"; */
+"83L-XI-Vzc.text" = "בא לך לקבל עדכונים על\nהטבות ומבצעים מיוחדים?\nמבטיחים לא להציק יותר מדי...";
+
+/* Class = "UIButton"; normalTitle = "בחר"; ObjectID = "89B-pb-mmw"; */
+"89B-pb-mmw.normalTitle" = "اختار";
+
+/* Class = "UIButton"; normalTitle = "אישור"; ObjectID = "96A-k4-VAq"; */
+"96A-k4-VAq.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "משתמש קיים"; ObjectID = "9l3-UW-GKq"; */
+"9l3-UW-GKq.text" = "משתמש קיים";
+
+/* Class = "UIButton"; normalTitle = "נסה שוב"; ObjectID = "ADZ-0F-jji"; */
+"ADZ-0F-jji.normalTitle" = "حاول مرة اخرى";
+
+/* Class = "UIButton"; normalTitle = "חודש הבא"; ObjectID = "Aio-v2-nb3"; */
+"Aio-v2-nb3.normalTitle" = "الشهر المقبل";
+
+/* Class = "UILabel"; text = "האם ברצונך להתנתק?"; ObjectID = "aWX-3D-HWX"; */
+"aWX-3D-HWX.text" = "האם ברצונך להתנתק?";
+
+/* Class = "UIButton"; normalTitle = "אישור"; ObjectID = "bLb-18-azd"; */
+"bLb-18-azd.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "בחר את סוג הפיצה שבא לך"; ObjectID = "ca9-t8-gc2"; */
+"ca9-t8-gc2.text" = "اختر نوع البيتزا الذي تفضله";
+
+/* Class = "UILabel"; text = "סיימנו!"; ObjectID = "cfQ-Z5-vsY"; */
+"cfQ-Z5-vsY.text" = "انتهينا!";
+
+/* Class = "UILabel"; text = "הזן כאן את קוד הקופון שלך:"; ObjectID = "chF-1P-081"; */
+"chF-1P-081.text" = "ادخل رمز قسيمتك هنا";
+
+/* Class = "UIButton"; normalTitle = "בטל"; ObjectID = "cIC-gg-su6"; */
+"cIC-gg-su6.normalTitle" = "الغ";
+
+/* Class = "UILabel"; text = "אופס..."; ObjectID = "dsi-Xi-Hrl"; */
+"dsi-Xi-Hrl.text" = "المعذرة!";
+
+/* Class = "UILabel"; text = "שלחנו לך קוד אימות לנייד הקלד אותו כאן:"; ObjectID = "DVZ-Ha-Gkf"; */
+"DVZ-Ha-Gkf.text" = "ارسلنا لك رمز تحقق للهاتف النقال  ادخله هنا";
+
+/* Class = "UIButton"; normalTitle = "ביטול"; ObjectID = "DyG-Ex-5RC"; */
+"DyG-Ex-5RC.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "כן, בטח!"; ObjectID = "Etu-Dk-Wc4"; */
+"Etu-Dk-Wc4.normalTitle" = "نعم! , بالطبع";
+
+/* Class = "UILabel"; text = "ברוכים הבאים לאפליקציית\nהיבואן הרשמי של\nקודי ישראל."; ObjectID = "eUy-zl-9Q1"; */
+"eUy-zl-9Q1.text" = "نحن نعتز بزبائننا الكرام ونحقق لاجلهم الافضل";
+
+/* Class = "UILabel"; text = "נא לבחור סניף"; ObjectID = "F2n-2l-sbx"; */
+"F2n-2l-sbx.text" = "נא לבחור סניף";
+
+/* Class = "UILabel"; text = "היי! הגעת ל-"; ObjectID = "F4r-mq-wLW"; */
+"F4r-mq-wLW.text" = "مرحبا! لقد وصلت إلى";
+
+/* Class = "UIButton"; normalTitle = "לצפייה בהזמנה"; ObjectID = "fkx-Qq-ZUA"; */
+"fkx-Qq-ZUA.normalTitle" = "لمعاينة الطلب";
+
+/* Class = "UILabel"; text = "האם תרצה להזמין עוד יחידה ממוצר זה?"; ObjectID = "FWI-gZ-MGS"; */
+"FWI-gZ-MGS.text" = "هل تريد طلب اضافي من هذا المنتج؟";
+
+/* Class = "UILabel"; text = "ממש מצטערים"; ObjectID = "GKT-ye-65y"; */
+"GKT-ye-65y.text" = "نلتمس العذر";
+
+/* Class = "UIButton"; normalTitle = "שמור"; ObjectID = "gUA-AM-IVG"; */
+"gUA-AM-IVG.normalTitle" = "احفظ";
+
+/* Class = "UILabel"; text = "מוזמנים לבקר אותנו בחנות בכתובת:"; ObjectID = "HL3-Y7-FMS"; */
+"HL3-Y7-FMS.text" = "ندعوكم لزيارتنا بعنوان";
+
+/* Class = "UIButton"; normalTitle = "סיימנו, תודה!"; ObjectID = "HS7-ph-oMz"; */
+"HS7-ph-oMz.normalTitle" = "انتهينا!";
+
+/* Class = "UILabel"; text = "שם"; ObjectID = "hTO-aa-vAV"; */
+"hTO-aa-vAV.text" = "الاسم";
+
+/* Class = "UILabel"; text = "סיימנו!"; ObjectID = "iab-xQ-hSf"; */
+"iab-xQ-hSf.text" = "انتهينا!";
+
+/* Class = "UILabel"; text = "אנא בחר מה תרצה לעשות?"; ObjectID = "ivD-5V-Koq"; */
+"ivD-5V-Koq.text" = "الرجاء اختيار ما تريد القيام به؟";
+
+/* Class = "UILabel"; text = "כרטיס האשראי שלך יחוייב לאחר אריזת המוצרים ושקילתם"; ObjectID = "J4x-yS-Irm"; */
+"J4x-yS-Irm.text" = "سيتم تحصيل الرسوم من بطاقتك الائتمانية بعد تعبئة المنتجات ووزنها";
+
+/* Class = "UILabel"; text = "המשלוחים שלנו עדיין לא מגיעים לאיזור שלך."; ObjectID = "JZG-gZ-T0u"; */
+"JZG-gZ-T0u.text" = "ارسالياتنا لا تصل منطقتك حاليا";
+
+/* Class = "UIButton"; normalTitle = "אין לי קופון"; ObjectID = "kbA-Kp-oh4"; */
+"kbA-Kp-oh4.normalTitle" = "ليس لدي قسيمة";
+
+/* Class = "UILabel"; text = "לא החנות הנכונה?"; ObjectID = "KD2-rM-HhP"; */
+"KD2-rM-HhP.text" = "متجر غير صحيح ؟";
+
+/* Class = "UILabel"; text = "מינימום הזמנה: ₪35.00"; ObjectID = "KGJ-iT-YjN"; */
+"KGJ-iT-YjN.text" = "מינימום הזמנה: ₪35.00";
+
+/* Class = "UIButton"; normalTitle = "התנתק"; ObjectID = "KgW-8L-IpK"; */
+"KgW-8L-IpK.normalTitle" = "התנתק";
+
+/* Class = "UILabel"; text = "הוראתך התקבלה בהצלחה"; ObjectID = "Ki7-9Y-KNc"; */
+"Ki7-9Y-KNc.text" = "הוראתך התקבלה בהצלחה";
+
+/* Class = "UIButton"; normalTitle = "המשך לתשלום"; ObjectID = "Lin-E3-oZG"; */
+"Lin-E3-oZG.normalTitle" = "استمر للدفع";
+
+/* Class = "UIButton"; normalTitle = "כן, תודה!"; ObjectID = "Lpy-EW-Flh"; */
+"Lpy-EW-Flh.normalTitle" = "نعم , شكرا";
+
+/* Class = "UIButton"; normalTitle = "לא, תודה"; ObjectID = "mx7-Hj-itM"; */
+"mx7-Hj-itM.normalTitle" = "لا! .شكرا";
+
+/* Class = "UILabel"; text = "קוד קופון לא תקין"; ObjectID = "NCH-74-7ff"; */
+"NCH-74-7ff.text" = "الرمز غير صحيح";
+
+/* Class = "UILabel"; text = "ללא עלות"; ObjectID = "nde-VT-QWY"; */
+"nde-VT-QWY.text" = "بدون تكلفة";
+
+/* Class = "UIButton"; normalTitle = "בטל"; ObjectID = "nVa-5j-Ill"; */
+"nVa-5j-Ill.normalTitle" = "الغ";
+
+/* Class = "UIButton"; normalTitle = "אישור"; ObjectID = "O32-ZD-sNh"; */
+"O32-ZD-sNh.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "האם ברצונך לשנות לאייקון של החנות?"; ObjectID = "o8t-zz-1pd"; */
+"o8t-zz-1pd.text" = "האם ברצונך לשנות לאייקון של החנות?";
+
+/* Class = "UILabel"; text = "ברישיון משרד הבריאות"; ObjectID = "oCh-qf-FJR"; */
+"oCh-qf-FJR.text" = "حابب نوصلك اشعارات عن تنزيلات وحملات خاصة؟ نعدكم بعدم الازعاج المبالغ";
+
+/* Class = "UILabel"; text = "להסיר את המוצר מהרשימה?"; ObjectID = "Ofr-6q-lLa"; */
+"Ofr-6q-lLa.text" = "هل تود ازالة المنتج من القائمة؟";
+
+/* Class = "UILabel"; text = "המוצר התווסף בהצלחה"; ObjectID = "ONc-B5-mTU"; */
+"ONc-B5-mTU.text" = "تمت اضافة المنتج بنجاح";
+
+/* Class = "UILabel"; text = "כאן ניתן לרכוש מוצרים ישירות\nמהיבואן ללא חשש לזיופים או פגומים.\nקנייה מהנה!"; ObjectID = "Pt9-ec-RPX"; */
+"Pt9-ec-RPX.text" = "כאן ניתן לרכוש מוצרים ישירות\nמהיבואן ללא חשש לזיופים או פגומים.\nקנייה מהנה!";
+
+/* Class = "UIButton"; normalTitle = "אישור"; ObjectID = "R2z-9V-Mol"; */
+"R2z-9V-Mol.normalTitle" = "موافق";
+
+/* Class = "UIButton"; normalTitle = "ביטול"; ObjectID = "RHp-xa-knt"; */
+"RHp-xa-knt.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "קיבלת קוד לנייד איתו נרשמת"; ObjectID = "s7A-eq-hgW"; */
+"s7A-eq-hgW.text" = "קיבלת קוד לנייד איתו נרשמת";
+
+/* Class = "UILabel"; text = "לכתובת זו אין דמי משלוח"; ObjectID = "sPt-qV-9vb"; */
+"sPt-qV-9vb.text" = "هذا العنوان ليس له رسوم ارسال";
+
+/* Class = "UIButton"; normalTitle = "כניסה"; ObjectID = "tgy-R6-IZ4"; */
+"tgy-R6-IZ4.normalTitle" = "دخول";
+
+/* Class = "UIButton"; normalTitle = "להזמין מוצר נוסף"; ObjectID = "ttT-Nb-Zwu"; */
+"ttT-Nb-Zwu.normalTitle" = "طلب منتج اضافي";
+
+/* Class = "UILabel"; text = "הקלד את מספר הנייד שלך כאן"; ObjectID = "U4e-3f-A1T"; */
+"U4e-3f-A1T.text" = "הקלד את מספר הנייד שלך כאן";
+
+/* Class = "UIButton"; normalTitle = "המשך"; ObjectID = "uRG-kt-q7w"; */
+"uRG-kt-q7w.normalTitle" = "اكمل";
+
+/* Class = "UILabel"; text = "כמעט והגעת למינימום הנדרש להזמנה. עוד קצת ואנחנו שם!"; ObjectID = "URt-G2-yFI"; */
+"URt-G2-yFI.text" = "اقتربت من المبلغ الاقل للطلب  اضف القليل ونكمل";
+
+/* Class = "UILabel"; text = "היי! הגעת ל-"; ObjectID = "uTg-Yc-vh1"; */
+"uTg-Yc-vh1.text" = "مرحبا! لقد وصلت إلى";
+
+/* Class = "UIButton"; normalTitle = "בטל"; ObjectID = "w1x-kt-jkc"; */
+"w1x-kt-jkc.normalTitle" = "الغ";
+
+/* Class = "UILabel"; text = "שים לב!"; ObjectID = "WFM-2F-l67"; */
+"WFM-2F-l67.text" = "انتبه!";
+
+/* Class = "UIButton"; normalTitle = "המשך"; ObjectID = "wiq-CP-mfi"; */
+"wiq-CP-mfi.normalTitle" = "اكمل";
+
+/* Class = "UIButton"; normalTitle = "לעדכן מוצר נוכחי"; ObjectID = "Wxu-mY-HKq"; */
+"Wxu-mY-HKq.normalTitle" = "تحديث المنتج الحالي";
+
+/* Class = "UIButton"; normalTitle = "חודש קודם"; ObjectID = "Y1e-Nt-aMI"; */
+"Y1e-Nt-aMI.normalTitle" = "الشهر الماضي";
+
+/* Class = "UILabel"; text = "הזמנה לא נשלחה, נא לבחור שעה מעודכנת"; ObjectID = "Z8m-mM-aIA"; */
+"Z8m-mM-aIA.text" = "لم يتم تسجيل طلبك , اختر ساعة محددة من فضلك";
+
+/* Class = "UIButton"; normalTitle = "לא, תודה!"; ObjectID = "zC2-To-NE9"; */
+"zC2-To-NE9.normalTitle" = "لا! .شكرا";
+
+/* Class = "UILabel"; text = "המוצר התווסף בהצלחה"; ObjectID = "zwK-jT-rCJ"; */
+"zwK-jT-rCJ.text" = "تمت اضافة المنتج بنجاح";

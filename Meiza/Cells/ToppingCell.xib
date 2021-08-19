@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Heebo-Regular.ttf">
+            <string>Heebo-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ToppingCell" rowHeight="30" id="KGk-i7-Jjw" customClass="ToppingCell" customModule="Meiza" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ללא עלות" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sbX-o9-FoJ">
+                        <rect key="frame" x="8" y="2.5" width="67" height="25"/>
+                        <fontDescription key="fontDescription" name="Heebo-Regular" family="Heebo" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" text="שם" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xlK-G4-BF1">
+                        <rect key="frame" x="259.5" y="2.5" width="24.5" height="25"/>
+                        <fontDescription key="fontDescription" name="Heebo-Regular" family="Heebo" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FHh-Mk-LRB">
+                        <rect key="frame" x="292" y="5" width="20" height="20"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="0tZ-fR-rnq"/>
+                            <constraint firstAttribute="width" constant="20" id="Gfz-yO-NEO"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="FHh-Mk-LRB" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="1Uj-Un-ngD"/>
+                    <constraint firstItem="sbX-o9-FoJ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="4hY-1i-9ez"/>
+                    <constraint firstItem="xlK-G4-BF1" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="sbX-o9-FoJ" secondAttribute="trailing" constant="8" id="8Hu-zh-o9l"/>
+                    <constraint firstItem="sbX-o9-FoJ" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="IGC-NT-Vvc"/>
+                    <constraint firstItem="xlK-G4-BF1" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="PwW-AB-LT1"/>
+                    <constraint firstItem="FHh-Mk-LRB" firstAttribute="leading" secondItem="xlK-G4-BF1" secondAttribute="trailing" constant="8" id="Y8p-jI-TRl"/>
+                    <constraint firstAttribute="trailing" secondItem="FHh-Mk-LRB" secondAttribute="trailing" constant="8" id="YKK-ct-T7J"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="lblName" destination="xlK-G4-BF1" id="HvH-cv-ymL"/>
+                <outlet property="lblPrice" destination="sbX-o9-FoJ" id="C4J-Ya-kMq"/>
+                <outlet property="viewCheckbox" destination="FHh-Mk-LRB" id="TaY-R5-Bv9"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="116.51785714285714"/>
+        </tableViewCell>
+    </objects>
+</document>
